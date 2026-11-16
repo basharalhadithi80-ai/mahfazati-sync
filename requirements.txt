@@ -1,0 +1,1 @@
+# No external packages — the server uses Python standard library only.
